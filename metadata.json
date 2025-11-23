@@ -1,0 +1,5 @@
+{
+  "name": "TGR Real-Time Strategy Dashboard",
+  "description": "A high-fidelity, Bloomberg-style racing dashboard for Toyota Gazoo Racing, featuring real-time 3D visualization of GR86 cars at Barber Motorsports Park with telemetry analysis and strategy simulation.",
+  "requestFramePermissions": []
+}
